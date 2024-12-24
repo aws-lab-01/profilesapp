@@ -1,2 +1,7 @@
 /.idea/
 /node_modules/
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
